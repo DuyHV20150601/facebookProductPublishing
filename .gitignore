@@ -1,0 +1,6 @@
+.venv/
+.idea/
+src/configs/
+*.pyc
+.vscode/
+__pycache__/
